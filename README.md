@@ -9,7 +9,7 @@ Quickly check cryptocurrency prices using [CoinGecko's](https://www.coingecko.co
 
 ### Images
 
-<p align="center"><img src="https://github.com/fabston/alfred-crypto-tracker/blob/main/assets/crypto-tracker.png?raw=true" width="300px"></p>
+<img src="https://github.com/fabston/alfred-crypto-tracker/blob/main/assets/crypto-tracker.png?raw=true" width="600px">
 
 ---
 
